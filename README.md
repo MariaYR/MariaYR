@@ -3,7 +3,7 @@
 # Welcome to my academic page! 
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=EqsjbTQAAAAJ)
-[LinkedIn} (www.linkedin.com/in/rodriguezmariay)
+[LinkedIn] (www.linkedin.com/in/rodriguezmariay)
 
 # Current Research 
 
