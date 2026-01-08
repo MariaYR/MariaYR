@@ -1,13 +1,13 @@
 # Maria Y. Rodriguez, MSW, PhD
-
-## Welcome to my academic page! 
-
+[Email](myr2@buffalo.edu) 
 [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=EqsjbTQAAAAJ)
 [LinkedIn](www.linkedin.com/in/rodriguezmariay)
 
 ## Current Research 
 
 My research sits at the intersection of artificial intelligence and social work, with a particular focus on high-stakes huamn service systems such as child welfare and housing. I study how principles like justice are operationalized in real human service systems—and what that means for the design, evaluation, and governance of AI technologies. Rather than treating ethics as an abstract constraint added after the fact, my work emphasizes understanding how service systems already define and enact normative commitments, and how those commitments should shape AI development from the ground up. Methodologically, I draw on mixed methods, policy analysis, and computational approaches, with an overarching goal of building AI that is socially accountable, context-aware, and meaningfully responsive to human needs.
+
+The repos below are older than I care to admit, since my work has changed throughout the years. Now, most of my coding has to do with building 
 
 ## Recent Citable Works 
 
@@ -18,6 +18,9 @@ List of works coming soon!
 ## For Prospective Students
 
 I enjoy working with students who are curious about the human dimensions of algorithmic decison making and motivated to engage deeply with real-world problems. Prospective students do not need to arrive with extensive technical backgrounds but they should be able to engage with social science schoalrship readily; I value intellectual curiosity, care for affected communities, and a willingness to learn across disciplinary boundaries. Students in my group often work on projects involving policy analysis, qualitative or mixed-methods research, algorithmic auditing or developing, or the design of decision-support tools. If you are interested in questions about justice, power, and responsibility in AI—and want to build research that is both rigorous and contextual —I encourage you to reach out.
+
+## Get in Touch 
+Coming soon! 
 
 
 <!--
