@@ -17,6 +17,7 @@ I enjoy working with students who are curious about the human dimensions of algo
 Current Projects
 
 Coming Soon! 
+
 <!--
 **MariaYR/MariaYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
