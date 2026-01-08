@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Maria Y. Rodriguez MSW, PhD's homepage
 description: A static page for research updates!
+logo: /assets/img/my_image.png
 social_links:
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=EqsjbTQAAAAJ&hl=en
   - name: LinkedIn
     url: www.linkedin.com/in/rodriguezmariay
-logo: /assets/img/my_image.png
