@@ -7,7 +7,7 @@
 
 My research sits at the intersection of artificial intelligence and social work, with a particular focus on high-stakes huamn service systems such as child welfare and housing. I study how principles like justice are operationalized in real human service systems—and what that means for the design, evaluation, and governance of AI technologies. Rather than treating ethics as an abstract constraint added after the fact, my work emphasizes understanding how service systems already define and enact normative commitments, and how those commitments should shape AI development from the ground up. Methodologically, I draw on mixed methods, policy analysis, and computational approaches, with an overarching goal of building AI that is socially accountable, context-aware, and meaningfully responsive to human needs.
 
-The repos below are older than I care to admit, since my work has changed throughout the years. Now, most of my coding has to do with building 
+The repos below are older than I care to admit, since my work has changed throughout the years. Now, most of my coding has to do with building systems (so the code isn't public). 
 
 ## Recent Citable Works 
 
