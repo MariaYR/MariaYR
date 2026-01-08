@@ -1,7 +1,4 @@
 # Maria Y. Rodriguez, MSW, PhD
-[Email](myr2@buffalo.edu) 
-[Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=EqsjbTQAAAAJ)
-[LinkedIn](www.linkedin.com/in/rodriguezmariay)
 
 ## Current Research 
 
