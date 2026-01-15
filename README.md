@@ -1,6 +1,6 @@
 # About Me
 
-I am an [Assistant Professor](https://engineering.buffalo.edu/home/research/faculty/profiles.host.html/content/shared/engineering/ai-society/profiles/faculty/rodriguez-maria.html) in the Department of AI and Society at the University at Buffalo. I am also a Research Affiliate of the [Center for the Study of Demography and Ecology](https://csde.washington.edu/people/research-affiliates/external-affiliates/) at the Univeristy of Washington. This page will share updates on my [research](#Research), including [recent works](#Recentworks), as well as information for [prospective students](#ForProspectiveStudents). 
+I am an [Assistant Professor](https://engineering.buffalo.edu/home/research/faculty/profiles.host.html/content/shared/engineering/ai-society/profiles/faculty/rodriguez-maria.html) in the Department of AI and Society at the University at Buffalo. I am also a Research Affiliate of the [Center for the Study of Demography and Ecology](https://csde.washington.edu/affiliates/rodriguez-maria/) at the Univeristy of Washington. This page will share updates on my [research](#Research), including [recent works](#Recentworks), as well as information for [prospective students](#ForProspectiveStudents). 
 
 # Research 
 
