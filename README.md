@@ -45,10 +45,10 @@ My approach to education involves facilitating an experiential learning process,
 # Community Engagement
 
 The goal of my research is to serve the various communities of human services. From the individuals, families, and groups that find themselves within human service systems through to the staff and executive leaders who build, maintain and operate those systems, my research consistently asks: 
-- 1. What are the ethical implications of adopting algorithmic systems in human services? 
-- 2. What solutions might mitigate between the justice values of human service provision and the efficiency challenges of algorithmic systems?
- 
+1. What are the ethical implications of adopting algorithmic systems in human services? 
+2. What solutions might mitigate between the justice values of human service provision and the efficiency challenges of algorithmic systems?
 
+I engage in community-based service and community-based research. A list of community partners is forthcoming. 
 
 <!--
 **MariaYR/MariaYR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
