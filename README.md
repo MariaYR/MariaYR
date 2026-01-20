@@ -8,7 +8,7 @@ My research sits at the intersection of artificial intelligence and social work,
 
 # Recent Works 
 
-My recent work examines how concepts such as justice are encoded in human service administrative policy, and how these operational definitions can inform the design of responsible AI systems. This includes empirical analyses of state-level policy, conceptual frameworks for value-sensitive system design, and educational research on how to teach ethical and human-centered AI to diverse audiences. I am particularly interested in how AI systems interact with justice and resource constraints in real-world settings. A complete overview of papers and preprints are listed on my [google scholar](https://scholar.google.com/citations?hl=en&user=EqsjbTQAAAAJ) profile, with links to manuscripts, data, and supplementary materials when available. 
+My recent work examines how concepts such as justice are encoded in human service administrative policy, and how these operational definitions can inform the design of responsible AI systems. This includes empirical analyses of state-level policy, conceptual frameworks for value-sensitive system design, and educational research on how to teach ethical and human-centered AI to diverse audiences. I am particularly interested in how AI systems interact with justice and resource constraints in real-world settings. A complete overview of papers and preprints are listed on my [google scholar](https://scholar.google.com/citations?hl=en&user=EqsjbTQAAAAJ) profile, with links to manuscripts, data, and supplementary materials when available. You might also view the current version of my [cv](assets/img/myr_cv_07.08.25.pdf). 
 
 # Selected Publications
 
@@ -40,6 +40,8 @@ My approach to education involves facilitating an experiential learning process,
 # Selected Courses Taught
 
 [CSE 199](https://engineering.buffalo.edu/computer-science-engineering/undergraduate/courses/course-catalog.html) 
+
+
 [AIS 104](https://engineering.buffalo.edu/ai-society/academics.html)
 
 # Community Engagement
