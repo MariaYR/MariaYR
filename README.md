@@ -12,13 +12,15 @@ My recent work examines how concepts such as justice are encoded in human servic
 
 # Selected Publications
 
+Rodriguez, M. Y., Dohler, E., Phillips, J., Villodas, M., Vegara, V., Joseph, K., & Wilson, A. B. (2026). Open-Source Software and Data for Human Service Development: A Case Study on Predicting Housing Instability. Journal of Technology in Human Services, 1–28. [https://doi.org/10.1080/15228835.2026.2709832](https://doi.org/10.1080/15228835.2026.2709832)
+
 Rodriguez, M. Y., Goldkind, L., Victor, B. G., Hiltz, B., & Perron, B. E. (2024). Introducing Generative Artificial Intelligence Into the MSW Curriculum: A Proposal for the 2029 Educational Policy and Accreditation Standards. Journal of Social Work Education, 60(2), 174–182. [https://doi.org/10.1080/10437797.2024.2340931](https://doi.org/10.1080/10437797.2024.2340931)
 
 Rodriguez, M. Y., & Storer, H. (2020). A computational social science perspective on qualitative data exploration: Using topic models for the descriptive analysis of social media data. Journal of Technology in Human Services, 38(1), 54–86. [https://doi.org/10.1080/15228835.2019.1616350](https://doi.org/10.1080/15228835.2019.1616350)
 
 Lanier, P., Rodriguez, M.Y., Verbiest, S. et al.(2020) Preventing Infant Maltreatment with Predictive Analytics: Applying Ethical Principles to Evidence-Based Child Welfare Policy. Journal of Family Violence, 35, 1–13. [https://doi.org/10.1007/s10896-019-00074-y](https://link.springer.com/article/10.1007/s10896-019-00074-y)
 
-M. Y. Rodriguez, D. DePanfilis and P. Lanier. (2019). "Bridging the gap: Social work insights for ethical algorithmic decision-making in human services," in IBM Journal of Research and Development, vol. 63, no. 4/5, pp. 8:1-8:8, 1 July-Sept. 2019, [doi: 10.1147/JRD.2019.2934047](http://ieeexplore.ieee.org/document/8792136).
+Rodriguez,M.Y., DePanfilis, D. and Lanier, P. (2019). "Bridging the gap: Social work insights for ethical algorithmic decision-making in human services," in IBM Journal of Research and Development, vol. 63, no. 4/5, pp. 8:1-8:8, 1 July-Sept. 2019, [doi: 10.1147/JRD.2019.2934047](http://ieeexplore.ieee.org/document/8792136).
 
 
 # Selected Professional Reports
